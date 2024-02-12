@@ -6,7 +6,7 @@ The project is carried out by students at **KTH Royal Institute of Technology** 
 
 The following project uses a design centred methodology for testing Colour Perception in different individuals. 
 
-For more details take a look at the code in the folder for [Color_analysis.ipynb](Data-Analysis-Code/Color_analysis.ipynb)  and read the paper for details on Quantiative & Qualitative Data-Analysis methods used, Hypothesis Testing. 
+For more details take a look at the code in the folder for [Color_analysis.ipynb](Data-Analysis-Code/Color_analysis.ipynb)  and read the paper or [presentation](Poster_Final_Post_Comments.pdf) for details on Quantiative & Qualitative Data-Analysis methods used, Hypothesis Testing depending on your time.
 
 Highly recommend reading Perception & Sensation book.
 
