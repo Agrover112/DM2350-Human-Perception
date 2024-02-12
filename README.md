@@ -1,6 +1,10 @@
 # DM2350-Human-Perception
-Exploring the Connection between Color Hues AND their Perceived Eco-friendliness using Grocery Products.
-The following project is a sub-part of testing for  Colour Perception in different individuals. 
+## Exploring the Connection between Color Hues AND their Perceived Eco-friendliness using Grocery Products.
+The project is carried out by students at **KTH Royal Institute of Technology** for the [_DM2350 Human Perception in Media Technology._](https://www.kth.se/student/kurser/kurs/DM2350).
+
+
+
+The following project uses a design centred methodology for testing Colour Perception in different individuals. 
 
 For more details take a look at the code in the folder for Color_analysis.ipynb  and read the paper for details on Quantiative & Qualitative Data-Analysis methods used, Hypothesis Testing. 
 
