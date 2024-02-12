@@ -8,6 +8,6 @@ The following project uses a design centred methodology for testing Colour Perce
 
 For more details take a look at the code in the folder for Color_analysis.ipynb  and read the paper for details on Quantiative & Qualitative Data-Analysis methods used, Hypothesis Testing. 
 
-
+Highly recommend reading Perception & Sensation book.
 
 ![Poster_Final_Post_Comments](https://github.com/Agrover112/DM2350-Human-Perception/assets/42321810/f85e2e09-5898-41c4-a4f0-244d828695ce)
